@@ -6,17 +6,16 @@ import java.util.Scanner;
 public class Main {
 
     static String letra;
-    double vetor[];
+    double pessoa[];
+
+    Pessoa p1 = new Pessoa();
+
 
 
 
 
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
-
-
-
-
 
 
 
