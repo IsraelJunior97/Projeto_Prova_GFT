@@ -10,16 +10,8 @@ public class Main {
 
     Pessoa p1 = new Pessoa();
 
-
-
-
-
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
-
-
-
-
 
     }
 }
